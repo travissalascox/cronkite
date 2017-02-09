@@ -23,7 +23,7 @@
     "url": "https://github.com/travissalascox/cronkite/issues"
   },
   "homepage": "https://github.com/travissalascox/cronkite#readme",
-    "dependencies": {
+  "dependencies": {
     "@angular/common": "~2.4.0",
     "@angular/compiler": "~2.4.0",
     "@angular/core": "~2.4.0",
@@ -41,6 +41,7 @@
     "bootstrap": "^3.3.7",
     "core-js": "^2.4.1",
     "express": "^4.14.0",
+    "font-awesome": "^4.7.0",
     "jquery": "^3.1.1",
     "lodash": "^4.17.3",
     "rxjs": "5.0.1",
